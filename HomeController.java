@@ -9,6 +9,8 @@ public class HomeController {
 	@RequestMapping("/")
 	public String display(){
 		
+		
+		
 		return "main-menu";
 	}
 
